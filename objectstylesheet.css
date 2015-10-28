@@ -1,0 +1,19 @@
+body {
+	background-color: #00FFCC;
+}
+
+h1 {
+	font-family: Helvetica;
+	display: inline-block;
+	text-transform: uppercase;
+	text-align: center;
+	color: #9933FF;
+	margin-left: 20px;
+
+}
+
+p {
+	margin-left: 20px;
+	text-transform: lowercase;
+	color: #6600CC;
+}
